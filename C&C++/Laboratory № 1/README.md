@@ -1,1 +1,1 @@
-Laboratory № 1 directory.
+Laboratory № 1 directory 
